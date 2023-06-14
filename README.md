@@ -1,2 +1,1 @@
-# school-management-erp-system
-School Management ERP System Software
+#School Management ERP System Software
